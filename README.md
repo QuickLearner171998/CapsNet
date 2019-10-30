@@ -14,3 +14,11 @@ The pre-trained CNN achieved 76.2% top-1 accuracy on the dig-10k dataset. **Whil
 ## CapsNet for Traffic Signal classification
 
 Final test acc: 94.81
+
+## CIFAR dataset
+
+Batch Size 10
+
+N_epochs =5
+
+acc = 66.53%
