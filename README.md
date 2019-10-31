@@ -45,4 +45,7 @@ acc = 66.53%
 
 - [ ] Try different weights for reconstruction loss.
 
+- [ ] Data Preprocessing and Shuffle data. (See Kaggle Kernel of Kannada MNIST)
+
+
 
