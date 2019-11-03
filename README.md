@@ -29,19 +29,15 @@ acc = 66.53%
 
 - [ ] Increase the size of the capsule layers (more capsules, larger capsules etc.). Note that it may take a lot of time.
 
-- [ ] Play with number of routing iterations in forward pass.
+- [x] Play with number of routing iterations in forward pass.
 
-- [ ] Play with kernel size of convolutions in the first layer (don't forget to change parameters of subsequent layers).
+- [ ] Play with kernel size of convolutions in the first layer.
 
-- [ ] Play with kernel size of capsules in the second layer (again, pay attention to the parameters of subsequent computations).
+- [ ] Play with kernel size of capsules in the second layer.
 
 - [ ] Try different variants of original implementation's loss function (change m+, m-, lambda, get rid of square etc.).
 
 - [ ] Try different loss functions (make it pure Hinge or pure MSE, maybe even cross-entropy!).
-
-- [ ] Try different implementation of capsules (not usual convolution operation, but maybe fully connected groups of neurons).
-
-- [ ] Try different non-linearities for capsules (changing ^2 to ^4 doesn't count!).
 
 - [ ] Try different weights for reconstruction loss.
 
