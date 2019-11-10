@@ -35,7 +35,7 @@ acc = 66.53%
 
 - [ ] Play with kernel size of capsules in the second layer.
 
-- [ ] Try different variants of original implementation's loss function (change m+, m-, lambda, get rid of square etc.).
+- [x] Try different variants of original implementation's loss function (change m+, m-, lambda, get rid of square etc.).
 
 - [ ] Try different loss functions (make it pure Hinge or pure MSE, maybe even cross-entropy!).
 
