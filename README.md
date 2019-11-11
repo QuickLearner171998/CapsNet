@@ -35,13 +35,12 @@ acc = 66.53%
 
 - [ ] Play with kernel size of capsules in the second layer.
 
-- [x] Try different variants of original implementation's loss function (change m+, m-, lambda, get rid of square etc.).
+- [x] Try different variants of original implementation's loss function (change m+, m-, lambda).
 
-- [ ] Try different loss functions (make it pure Hinge or pure MSE, maybe even cross-entropy!).
+- [ ] Try different loss functions (Hinge or pure MSE, or cross-entropy!).
 
-- [ ] Try different weights for reconstruction loss.
+- [x] Try different weights for reconstruction loss.
 
-- [ ] Data Preprocessing and Shuffle data. (See Kaggle Kernel of Kannada MNIST)
-
+- [x] Data Preprocessing and Shuffle data.
 
 
